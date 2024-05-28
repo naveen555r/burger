@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-image: url('/burger\ pics.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    font-family: "Times New Roman", Georgia, Serif;
+    letter-spacing: 5px;
+    font-size: 15px;
+    color: gray;
+    margin-top: 20px;
+}
+.para1{
+    width: 50%;
+    height: 700px; 
+    float: left; 
+}
+.para{
+    width: 50%;
+    height: 700px;
+    float: left;
+}
+.img-s{
+    height: 650px;
+    margin-top: 20px;
+    width: 500px;
+    margin-left: 100px;
+}
+.header{
+    background-color:white;
+    width: 100%;
+    height: 50px;
+    color: black;
+    display: flex;
+  padding: 15px;  
+  
+}
+.nav ul{
+    padding-left: 60rem;
+    word-spacing: 50px;
+    margin-top: 20px ;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+.nav ul li{
+    display: inline-block;
+    padding: 5px;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+body{
+    font-family: "Times New Roman", Georgia, Serif;
+}
+.goat{
+    
+    margin-top: 800px;
+    color:antiquewhite
+}
+.para{
+    background-color: antiquewhite;
+}
+.lau{
+    font-family: "Times New Roman", Georgia, Serif;
+    letter-spacing: 3px;
+    font-size: 20px;
+    width: 50%;
+    height: 300px;
+    float: left;
+    
+
+}
+.img-v{
+    width: 50%;
+    height: 500px;
+    float: right; 
+}
+.lau1{
+    font-size: 2opx;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+.lau2{
+    font-size: 2opx;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
+.lau3{
+    font-size: 2opx;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
+.lau4{
+    font-size: 2opx;
+    font-family: "Times New Roman", Georgia, Serif;
+     
+}
+.lau5{
+    font-size: 2opx;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
+.lau6{
+    font-size: 2opx;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
